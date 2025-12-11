@@ -1,0 +1,3 @@
+# 這是個練習專案
+
+範例用來說明 Promise 的運作和 async/await 的用法。
